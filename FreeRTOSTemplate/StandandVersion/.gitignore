@@ -1,0 +1,8 @@
+.vscode
+Obj/** 
+DebugConfig/** 
+# 保留特定文件
+Template.uvguix.Administrator
+Template.uvguix.Coward
+Template.uvguix.YZ
+Template.uvoptx
